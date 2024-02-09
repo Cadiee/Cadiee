@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cadiee
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning TypeScript
+- 😄 Pronouns: He/Him
